@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9590364b-b107-4309-8a02-ca62a15cfd71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b86dblT3twzQW3P6UCMY2YawQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MovieArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieArraylist" />
+      <module name="movieArraylist" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieArraylist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9590364b-b107-4309-8a02-ca62a15cfd71" name="Default Changelist" comment="" />
+      <created>1588001461435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588001461435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1588002328495">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1588002328495" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center" timestamp="1588002328486">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1588002328486" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left" timestamp="1588002328471">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1588002328471" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right" timestamp="1588002328489">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1588002328489" />
+  </component>
+</project>
